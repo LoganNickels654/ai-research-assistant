@@ -3,6 +3,10 @@
 .env.local
 .env.production
 
+# Virtual Env
+venv/
+env/
+
 # Python
 __pycache__/
 *.pyc

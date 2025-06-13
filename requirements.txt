@@ -1,4 +1,6 @@
-streamlit
+fastapi
+uvicorn
+supabase
+python-dotenv
 requests
 anthropic
-python-dotenv
